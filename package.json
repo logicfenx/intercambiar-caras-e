@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/intercambiar-caras-e",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a intercambiar-caras-e",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/intercambiar-caras-e.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/intercambiar-caras-foto-video-online/"
+    },
+    "homepage": "https://bitcu.co/intercambiar-caras-foto-video-online/"
+}
